@@ -69,5 +69,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Acknowledgments**
 Inspired by Cucumber and Selenium open-source projects.
-Special thanks to the SauceDemo team for providing a test environment.
+
  //by KNSev
