@@ -1,0 +1,15 @@
+com\Appfire\Pages\ContactPage.class
+com\Appfire\Runners\FailedTestRunner.class
+com\Appfire\Utilities\BrowserUtils$1.class
+com\Appfire\StepDefinitions\ContactStepDefinition.class
+com\Appfire\Utilities\BrowserUtils.class
+com\Appfire\Pages\BasePage.class
+com\Appfire\Runners\CukesRunner.class
+com\Appfire\Utilities\DesiredCapabilities.class
+com\Appfire\Utilities\ConfigurationReader.class
+com\Appfire\StepDefinitions\SolutionsStepDefinitions.class
+com\Appfire\Pages\SolutionsPage.class
+com\Appfire\Pages\DashboardPage.class
+com\Appfire\Utilities\Driver.class
+com\Appfire\StepDefinitions\ModulesStepDefinitions.class
+com\Appfire\StepDefinitions\Hooks.class
